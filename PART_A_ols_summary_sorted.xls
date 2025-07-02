@@ -1,0 +1,362 @@
+Variable	P>|t|		
+Microwave}	0.99547986		Variables where p-value >0.05 - Hence need to ignore those
+Kitchen}	0.993423689		
+property_type_Chalet	0.991276637		
+" smooth pathway to front door"""	0.985802712		
+"""Pets live on this property""}"	0.982143835		
+property_type_Other	0.971527951		
+instant_bookable_t	0.958210572		
+"""Handheld shower head"""	0.953413992		
+"""High chair""}"	0.948328248		
+"""Patio or balcony"""	0.947022409		
+"{""Wireless Internet""}"	0.942842717		
+"""Hot water kettle""}"	0.942611632		
+"""Hot water kettle"""	0.939376245		
+"""Wide clearance to bed""}"	0.939071792		
+{Doorman	0.933226563		
+"""Wide entryway"""	0.932438447		
+property_type_Loft	0.927855239		
+"""Wide doorway""}"	0.920859991		
+"""Accessible-height toilet""}"	0.920073923		
+"""Grab-rails for shower and toilet"""	0.918475194		
+"""First aid kit""}"	0.916623061		
+"""Other pet(s)"""	0.916293189		
+"""Table corner guards""}"	0.915514733		
+"""Fixed grab bars for shower & toilet"""	0.912599912		
+"""Pocket wifi"""	0.907054642		
+"""Firm mattress""}"	0.906333037		
+"""Bed linens"""	0.902964679		
+"""Cooking basics""}"	0.899472836		
+"""Bathtub with shower chair"""	0.895741149		
+"{""First aid kit"""	0.895549064		
+"""High chair"""	0.892910892		
+"""Wide clearance to shower & toilet"""	0.880893727		
+{Shampoo	0.876761634		
+"{""Pets live on this property""}"	0.875439207		
+"{""Stair gates"""	0.873497216		
+{Stove	0.867175528		
+"{""Smoke detector"""	0.866343346		
+"{""Self Check-In"""	0.86292243		
+Bathtub	0.862598831		
+"""Step-free access""}"	0.859960595		
+Essentials}	0.859425392		
+"""Safety card""}"	0.850811557		
+"""Game console"""	0.848780287		
+" smooth pathway to front door""}"	0.833515439		
+"""Accessible-height bed"""	0.829392178		
+"""Wide hallway clearance""}"	0.828595757		
+"""Carbon monoxide detector""}"	0.826454252		
+"""Babysitter recommendations""}"	0.824956106		
+property_type_Vacation home	0.821127598		
+"""Baby monitor"""	0.820261057		
+"""Hair dryer""}"	0.819321829		
+"""Fixed grab bars for shower & toilet""}"	0.816610856		
+Oven}	0.814233574		
+"""Cleaning before checkout"""	0.812315803		
+"""Smoke detector""}"	0.811056069		
+"""Body soap"""	0.802191865		
+"""Toilet paper"""	0.802191865		
+"""Hand or paper towel"""	0.802191865		
+"""Bath towel"""	0.802191865		
+"""Hand soap"""	0.802191865		
+"""Dishes and silverware""}"	0.797136973		
+{TV}	0.791895863		
+bed_type_Real Bed	0.790070809		
+"""Beach essentials"""	0.776333287		
+Dishwasher}	0.775087222		
+"""Beach essentials""}"	0.773096782		
+"""Patio or balcony""}"	0.757013143		
+"""EV charger"""	0.754400258		
+"""Ground floor access"""	0.752218241		
+"""Roll-in shower with chair"""	0.746337855		
+"""Pack ’n Play/travel crib"""	0.745245008		
+"""Cooking basics"""	0.744520961		
+"""Ground floor access""}"	0.736564978		
+property_type_Lighthouse	0.729662607		
+"""Hot water"""	0.726786713		
+"""Wide entryway""}"	0.724278823		
+TV}	0.71562014		
+"""Pocket wifi""}"	0.713726172		
+{Breakfast	0.701246728		
+"""Private bathroom""}"	0.700041278		
+"""Single level home""}"	0.699944174		
+Waterfront	0.696346765		
+"{""Buzzer/wireless intercom"""	0.692542157		
+"""Children’s dinnerware"""	0.688274414		
+"{""translation missing: en.hosting_amenity_49""}"	0.682605806		
+{Gym	0.680246368		
+"""Flat"	0.667968462		
+"""Safety card"""	0.657424682		
+{Washer	0.656110565		
+Breakfast}	0.654081844		
+"""Wireless Internet""}"	0.641431549		
+"""BBQ grill""}"	0.638996845		
+"""Buzzer/wireless intercom""}"	0.637499311		
+"""Children’s books and toys"""	0.63204078		
+"""Luggage dropoff allowed""}"	0.623692654		
+Oven	0.619275892		
+review_duration	0.613253942		
+{Essentials}	0.605188192		
+"{""Suitable for events""}"	0.603959352		
+bed_type_Pull-out Sofa	0.600142939		
+"""Wide clearance to shower & toilet""}"	0.598141232		
+"""Extra pillows and blankets"""	0.586350991		
+Gym}	0.578537652		
+Refrigerator}	0.567778891		
+Keypad	0.563108605		
+"""translation missing: en.hosting_amenity_49"""	0.55661157		
+"{""Carbon monoxide detector""}"	0.553805059		
+{Pool	0.537908889		
+"""Wide clearance to bed"""	0.533276955		
+"""Doorman Entry"""	0.532574111		
+"""Indoor fireplace""}"	0.53198008		
+host_identity_verified_t	0.524822335		
+"""Table corner guards"""	0.521621323		
+"{""translation missing: en.hosting_amenity_49"""	0.515823441		
+"""Accessible-height toilet"""	0.50766062		
+TV	0.506837287		
+Lockbox}	0.505736726		
+"{""Smoking allowed""}"	0.502799191		
+"""Hot tub""}"	0.499057343		
+"""Free parking on premises""}"	0.490694429		
+"""Ethernet connection""}"	0.488929122		
+"""Washer / Dryer"""	0.473955437		
+"""Well-lit path to entrance""}"	0.469686952		
+"{""Wheelchair accessible"""	0.465905913		
+property_type_Casa particular	0.464076464		
+property_type_Parking Space	0.462490137		
+{Kitchen	0.461641381		
+"""Disabled parking spot""}"	0.460228411		
+"""Baby bath""}"	0.458664222		
+"""Cleaning before checkout""}"	0.449954736		
+"""Changing table"""	0.44565218		
+Washer}	0.445315463		
+{Breakfast}	0.444912296		
+"""Coffee maker""}"	0.444036357		
+"""Firm matress"""	0.434551172		
+Other}	0.422900283		
+"{""Smoke detector""}"	0.396866942		
+Shampoo}	0.394482904		
+Other	0.387741715		
+"""Smoke detector"""	0.385855655		
+{Essentials	0.369119027		
+"""Bathtub with shower chair""}"	0.350237059		
+Elevator}	0.343249753		
+"""Private bathroom"""	0.342862321		
+"""Paid parking off premises"""	0.342455291		
+"""Path to entrance lit at night"""	0.340703804		
+"{""Air conditioning"""	0.338638771		
+"""Disabled parking spot"""	0.338411451		
+property_type_Castle	0.335980163		
+"""Fireplace guards""}"	0.335432575		
+property_type_Treehouse	0.330766038		
+"""EV charger""}"	0.330256083		
+"{""Wide entryway"""	0.322692558		
+"""Step-free access"""	0.322442445		
+"{""Family/kid friendly""}"	0.321535095		
+"""Flat smooth pathway to front door"""	0.302868956		
+"""Roll-in shower with chair""}"	0.302333823		
+"""Other pet(s)""}"	0.292520453		
+"""Pack ’n Play/travel crib""}"	0.291940757		
+"{""Laptop friendly workspace""}"	0.288087763		
+"""Handheld shower head""}"	0.287258228		
+property_type_Yurt	0.286784372		
+"""Air conditioning""}"	0.284660738		
+"""Children’s books and toys""}"	0.284117865		
+property_type_Serviced apartment	0.280674363		
+Stove	0.274241412		
+"{""Lock on bedroom door"""	0.273031808		
+"""BBQ grill"""	0.267590533		
+property_type_Cave	0.26583397		
+"{""translation missing: en.hosting_amenity_50"""	0.265419307		
+"""Changing table""}"	0.265054136		
+{TV	0.253309336		
+property_type_Island	0.249322964		
+cleaning_fee_True	0.248998502		
+Dog(s)}	0.246936685		
+property_type_Villa	0.245531568		
+"""Ski in/Ski out""}"	0.243355149		
+"""Garden or backyard"""	0.242212101		
+"""Fireplace guards"""	0.241004541		
+"""Lake access""}"	0.240704496		
+"""Game console""}"	0.237106141		
+"""Smart lock""}"	0.23288167		
+"{""Free parking on premises"""	0.230782766		
+"""Air purifier""}"	0.220429029		
+Waterfront}	0.21811905		
+"""Private living room""}"	0.214858207		
+"{""Family/kid friendly"""	0.204923698		
+property_type_Bed & Breakfast	0.202410638		
+"""Extra pillows and blankets""}"	0.196270336		
+Iron	0.195620369		
+"""Firm matress""}"	0.192852404		
+"{""Wireless Internet"""	0.190563574		
+"""Single level home"""	0.187413926		
+property_type_Earth House	0.18510866		
+"{""Single level home"""	0.182836806		
+"""Well-lit path to entrance"""	0.179942793		
+"""translation missing: en.hosting_amenity_50"""	0.167886738		
+"{""Pets live on this property"""	0.167537312		
+"{""translation missing: en.hosting_amenity_50""}"	0.166041436		
+"""24-hour check-in""}"	0.165739952		
+"{""Host greets you"""	0.161954636		
+Lockbox	0.161501875		
+"""Accessible-height bed""}"	0.159543507		
+"""Lake access"""	0.148438641		
+Smartlock}	0.144701776		
+"""Lock on bedroom door""}"	0.141189606		
+"""Wide hallway clearance"""	0.135604329		
+Keypad}	0.132856648		
+"""Hot water""}"	0.126181422		
+"""Elevator in building"""	0.126014027		
+"""Grab-rails for shower and toilet""}"	0.119650293		
+"{""Elevator in building"""	0.116974527		
+"""Wide doorway"""	0.114948536		
+"{""Pets allowed"""	0.114892401		
+"{""Free parking on premises""}"	0.11456752		
+"""Long term stays allowed"""	0.109728527		
+"{""Pets allowed""}"	0.109045259		
+cancellation_policy_super_strict_30	0.108567487		
+bed_type_Futon	0.105769733		
+{Elevator	0.103631382		
+"""Wireless Internet"""	0.102505972		
+property_type_Tipi	0.099354661		
+"{""Smoking allowed"""	0.09823717		
+"""Outlet covers""}"	0.096968512		
+Smartlock	0.09524772		
+property_type_Train	0.095148993		
+{Internet	0.093368513		
+property_type_Cabin	0.090651458		
+"""Hot tub"""	0.088784252		
+"""Ethernet connection"""	0.085468746		
+Beachfront	0.083620879		
+Cat(s)}	0.079077957		
+"""Family/kid friendly"""	0.075679348		
+Pool	0.07469951		
+property_type_Condominium	0.068691162		
+"""Babysitter recommendations"""	0.067579926		
+"""Stair gates""}"	0.066202971		
+"""Firm mattress"""	0.063606693		
+"""Fire extinguisher""}"	0.062082936		
+Hangers}	0.057464435		
+"""Path to entrance lit at night""}"	0.056447515		
+Stove}	0.050830561		
+Crib}	0.047162781		
+"""Host greets you"""	0.045833598		
+"""Laptop friendly workspace"""	0.045663883		
+Breakfast	0.041999121		
+property_type_Boutique hotel	0.040995815		
+"""Smart lock"""	0.039295691		
+"""Wide clearance to shower and toilet"""	0.038130371		
+"""Room-darkening shades""}"	0.037389823		
+"""Pets allowed"""	0.033630451		
+bed_type_Airbed	0.032719301		
+"""Window guards"""	0.03200799		
+"""Outlet covers"""	0.028294838		
+"""Family/kid friendly""}"	0.024732897		
+"""Baby bath"""	0.02467459		
+"{""Host greets you""}"	0.024575639		
+{Kitchen}	0.022685101		
+instant_bookable_f	0.020757467		
+property_type_Boat	0.020017823		
+"""Window guards""}"	0.019437623		
+"""Pets allowed""}"	0.018582855		
+"""First aid kit"""	0.018405455		
+"{""Cable TV"""	0.018060137		
+property_type_Guest suite	0.017032347		
+"""Coffee maker"""	0.016857217		
+"""Stair gates"""	0.015652472		
+"""Private entrance"""	0.014790064		
+"""Host greets you""}"	0.014491604		
+"""Luggage dropoff allowed"""	0.013038189		
+Beachfront}	0.011025024		
+"""Children’s dinnerware""}"	0.01073323		
+"""Room-darkening shades"""	0.010109264		
+Washer	0.008846473		
+"""Suitable for events""}"	0.008336684		
+"""Garden or backyard""}"	0.008304521		
+Dog(s)	0.007469337		
+Refrigerator	0.006982706		
+Cat(s)	0.006602432		
+"""Bed linens""}"	0.005705255		
+property_type_Hut	0.005210266		
+property_type_Camper/RV	0.004893437		
+{Heating	0.00481077		
+property_type_In-law	0.003142302		
+host_identity_verified_f	0.002562745		
+host_has_profile_pic_t	0.002542608		
+Crib	0.002056217		
+"""Long term stays allowed""}"	0.002050219		
+property_type_Townhouse	0.002006655		
+"""Private entrance""}"	0.00158959		
+property_type_Bungalow	0.001404782		
+"""24-hour check-in"""	0.001201502		
+"""translation missing: en.hosting_amenity_49""}"	0.001139245		
+bed_type_Couch	0.001099765		
+Iron}	0.001078503		
+"""Pets live on this property"""	0.001021036		
+"""Laptop friendly workspace""}"	0.000827964		
+"""Wheelchair accessible"""	0.000682888		
+"""Doorman Entry""}"	0.000671708		
+"{""Suitable for events"""	0.000525627		
+host_has_profile_pic_f	0.000489333		
+cleaning_fee_False	0.000450225		
+"""Dishes and silverware"""	0.000330499		
+"""Private living room"""	0.000285939		
+"{""Fire extinguisher""}"	0.000266829		
+Doorman}	0.000220825		
+property_type_Tent	0.000149748		
+Essentials	0.000130066		
+Microwave	8.21E-05		
+property_type_Guesthouse	5.88E-05		
+cancellation_policy_super_strict_60	5.82E-05		
+room_type_Private room	3.16E-05		
+"""Carbon monoxide detector"""	1.96E-05		
+"""translation missing: en.hosting_amenity_50""}"	1.95E-05		
+property_type_House	1.83E-05		
+"""Smoking allowed"""	1.79E-05		
+"""Self Check-In"""	1.36E-05		
+Heating}	1.17E-05		
+"""Free parking on street"""	1.16E-05		
+property_type_Apartment	9.54E-06		
+property_type_Timeshare	9.39E-06		
+Bathtub}	4.48E-06		
+Dryer}	3.75E-06		
+"""Lock on bedroom door"""	2.92E-06		
+{}	2.10E-06		
+Dryer	3.28E-07		
+"""Fire extinguisher"""	3.23E-07		
+cancellation_policy_flexible	1.02E-07		
+Internet	4.22E-08		
+Heating	3.00E-08		
+Kitchen	1.94E-08		
+Hangers	1.00E-08		
+cancellation_policy_strict	9.93E-09		
+"""Air conditioning"""	4.42E-11		
+cancellation_policy_moderate	4.28E-12		
+Dishwasher	2.47E-12		
+"""Suitable for events"""	1.74E-12		
+Shampoo	1.77E-14		
+days_since_last_review	9.87E-16		
+host_response_rate	3.37E-18		
+"""Hair dryer"""	6.47E-19		
+Gym	1.04E-21		
+number_of_reviews	2.58E-22		
+property_type_Hostel	8.40E-24		
+Doorman	3.70E-26		
+property_type_Dorm	2.82E-26		
+"""Buzzer/wireless intercom"""	2.32E-29		
+beds	3.25E-41		
+"""Cable TV"""	2.30E-43		
+days_since_host_since	2.48E-46		
+"""Free parking on premises"""	8.55E-56		
+review_scores_rating	5.46E-64		
+"""Indoor fireplace"""	2.31E-79		
+longitude	4.21E-80		
+latitude	2.92E-82		
+Elevator	8.63E-93		
+bathrooms	1.73E-167		
+bedrooms	0		
+room_type_Shared room	0		
+room_type_Entire home/apt	0		
+accommodates	0		
